@@ -48,4 +48,4 @@ NEXT .JS (for client application development)
 
 If you like my work, consider buying me a coffee!
 
-<a href="https://www.buymeacoffee.com/vladimirmazarakis" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px; width: 162px;"></a>
+<a href="https://buymeacoffee.com/vladimirma4" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px; width: 162px;"></a>
