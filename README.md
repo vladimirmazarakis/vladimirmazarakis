@@ -18,12 +18,6 @@ I am a passionate software developer with a keen interest in open-source project
 - **Databases**: MSSQL, MySQL, PostgreSQL, MongoDB
 - **DevOps Tools**: Docker, GitHub Actions
 
-## Current open-source projects in development
-
-### [Car Rental Management](https://github.com/vladimirmazarakis/car-rental-management)
-Piece of software used to help Car Rental businesses manage their Cars and Bookings efficiently. (not for production, probably)
-Mostly made to experiment with some patterns and technologies.
-
 Tech-stack:
 ASP .NET Core (using Clean Architecture to develop back-end)
 NEXT .JS (for client application development)
