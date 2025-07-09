@@ -4,25 +4,25 @@
 
 ## About Me
 
-I am a passionate software developer with a keen interest in open-source projects, ERP projects and any types of SaaS projects. I aim to create impactful software solutions that can help solve real-world problems.
+I am a Full-Stack Web Developer specializing in .NET. Most of my experience is in an ERP project which is being developed at my current job Contour Enterprise, where I am for 3+ years right now. 
 
 - 💼 Currently working at Contour Enterprise
-- 🧑‍🎓 Studied at home 😊
+- 🧑‍🎓 Self-educated and passionate 😊
 - 🌍 Based in Greece, Kalamata
 
 ## Skills
 
 - **Programming Languages**: C#, JavaScript, TypeScript
-- **Web Development**: React (Next), ASP .NET Core, Node.js
+- **Web Development**: React (Next), ASP .NET Core, Node.js, Vue.js
 - **Cloud Platforms**: Azure
-- **Databases**: MSSQL, MySQL, PostgreSQL, MongoDB
+- **Databases**: MSSQL, MongoDB
 - **DevOps Tools**: Docker, GitHub Actions
 
 Tech-stack:
 ASP .NET Core (using Clean Architecture to develop back-end)
-NEXT .JS (for client application development)
+Any framework, but most loved one Vue.js
 
-## Get in Touch
+## You can get in touch with me here:
 
 - 📧 Email: [vladimirmazarakis@hotmail.com](mailto:vladimirmazarakis@hotmail.com)
 - 💼 LinkedIn: [Click](https://www.linkedin.com/in/vladimiros-mazarakis-621347225/)
