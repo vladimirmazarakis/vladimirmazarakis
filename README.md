@@ -19,7 +19,8 @@ I am a Full-Stack Web Developer specializing in .NET. Most of my experience is i
 - **DevOps Tools**: Docker, GitHub Actions
 
 Tech-stack:
-ASP .NET Core (using Clean Architecture to develop back-end)
+ASP .NET Core
+
 Any front-end framework, but most loved one Vue.js
 
 ## You can get in touch with me here:
